@@ -20,7 +20,7 @@ export default class Sound extends Component<Props> {
 
     render() {
       return (
-      <View style={styles.menu}>
+      <View>
       <Image source onPress={{uri: 'https://i.imgur.com/FrCYqvS.png'}}
         style={{width: 15, height: 15, alignSelf: 'center', float: left}} />
       </View>
