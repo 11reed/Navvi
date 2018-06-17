@@ -7,5 +7,5 @@ cd Navvi
 npm install
 ```
 
-*WIP
+* WIP
 
