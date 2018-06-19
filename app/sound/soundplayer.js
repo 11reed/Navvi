@@ -22,7 +22,7 @@ export default class Sound extends Component<Props> {
       return (
       <View>
       <Image source onPress={{uri: 'https://i.imgur.com/FrCYqvS.png'}}
-        style={{width: 15, height: 15, alignSelf: 'center', float: left}} />
+        style={{width: 15, height: 15, alignSelf: 'center', justifyContent: 'flex-start'}} />
       </View>
       );
     }
