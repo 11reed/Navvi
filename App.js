@@ -41,6 +41,8 @@ const App = () => {
   );
 }
 
+
+/* no reference to object styles for now
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -55,6 +57,7 @@ const styles = StyleSheet.create({
     color: 'white',
   },
 });
+*/
 
 export default App;
 
