@@ -42,7 +42,7 @@ const App = () => {
 }
 
 
-/* no reference to object styles for now
+/* no reference to style prop for now
 const styles = StyleSheet.create({
   container: {
     flex: 1,
