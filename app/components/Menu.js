@@ -7,7 +7,7 @@ import {
 	Font,
 	View,
 	TextInput,
-  Animated,
+        Animated,
 	TouchableOpacity
 } from 'react-native'; 
 import { Actions } from 'react-native-router-flux';
