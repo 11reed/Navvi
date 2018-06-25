@@ -11,5 +11,8 @@ npm install
 ```bash
 react-native run-ios
 ```
+* Note: If you are not running on Mac you will need to install Expo [Converting to Expo]
+
+* WIP
 
 
