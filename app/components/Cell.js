@@ -1,9 +1,6 @@
 import React, { Component } from 'react'
 import { View, StyleSheet, Text } from 'react-native'
 
-
-export const blockStyles = {
-}
 const cellStyles = {
   position: 'absolute',
   top: 0,
