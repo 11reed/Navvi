@@ -13,6 +13,4 @@ react-native run-ios
 ```
 * Note: If you are not running on Mac you will need to install Expo [Converting to Expo](https://github.com/expo/xde#converting-an-existing-project-to-work-with-expo)
 
-* WIP
-
 
