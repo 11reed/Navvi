@@ -4,7 +4,6 @@ import { Router, Scene } from 'react-native-router-flux';
 
 import Menu from './app/components/Menu';
 import Game from './app/components/Game';
-//import Sound from './app/sound/soundplayer';
 
 
 const App = () => {
@@ -42,22 +41,4 @@ const App = () => {
 }
 
 
-/* no reference to style objects for now
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#000',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10, 
-    color: 'white',
-  },
-});
-*/
-
 export default App;
-
